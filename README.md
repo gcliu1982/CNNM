@@ -4,7 +4,9 @@ matlab code for tensor-valued time series forecasting and completion. The code i
 Please run the following three routines to get started:
 
 demo_1Dtimeseries.m   ---- a demo for 1D time serires forecasting
+
 demo_imagecompletion.m  ------- a demo for image completion
+
 demo_videoprediction.m  ------- a demo for video prediction, i.e., predicting the next q image frames of a given sequence of p frames.
 
 
