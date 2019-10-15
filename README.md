@@ -1,4 +1,5 @@
-# CNNM
+# Convolution Nuclear Norm for Data Forecasting and Completion
+
 matlab code for tensor-valued time series forecasting and completion. The code includes two algorithms, DFT_L1 (Discrete Fourier Transform based L1 minimization) and CNNM (Convolution Nuclear Norm Minimization). 
 
 Please run the following three routines to get started:
